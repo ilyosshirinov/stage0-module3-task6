@@ -25,6 +25,4 @@ class FloatTypeCastingTest extends BaseIOTest {
         assertEquals("20\n", updateLineSpliterators(outContent.toString()));
     }
 
-    private void assertEquals(String s, String updateLineSpliterators) {
-    }
 }
